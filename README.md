@@ -1,6 +1,6 @@
-# springapi-rql
+# springapi-kotlin
 
-A simple Spring Reactive REST API showcasing RQL (REST query language)
+A simple Spring Reactive REST API written in Kotlin
 
 ## Setup
 
